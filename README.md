@@ -1,6 +1,6 @@
 ### Hi, I'm Ali 👋
 
-Full-stack software engineer in Riyadh. I build products end-to-end and run them in production. Co-founder & CTO of [Ayo](https://tryayo.co).
+Full-stack software engineer in Riyadh. I build products end-to-end and run them in production.
 
 🌐 **[alialnujaidi.com](https://alialnujaidi.com)**: my portfolio, which is [open source](https://github.com/AliAlnujaidi/portfolio) if you'd like to use it for yours.
 
